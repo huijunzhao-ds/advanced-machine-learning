@@ -4,8 +4,8 @@
 Progress
 * [x] Introduction to Deep Learning
 * [ ] How to Win a Data Science Competition
-* [ ] Bayesian Methods for Machine Learning (5/6 weeks)
-* [ ] Practical Reinforcement Learning
+* [x] Bayesian Methods for Machine Learning
+* [ ] Practical Reinforcement Learning (1/6 weeks)
 * [ ] Deep Learning in Computer Vision
-* [ ] Natural Language Processing 
+* [ ] Natural Language Processing (1/6 weeks)
 * [ ] Addressing Large Hadron Collider Challenges by Machine Learning
